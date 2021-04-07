@@ -10,6 +10,6 @@ __pycache__/
 #*.zip
 #*.pyz
 #*.txt
-#*.spec
+*.spec
 #*.manifest
 #*.html
