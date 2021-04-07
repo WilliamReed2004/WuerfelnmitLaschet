@@ -2,8 +2,10 @@
 __pycache__/
 
 #ignore builds
-/dist
-/build
+/gui/dist/
+/gui/build/
+/cli/dist/
+/cli/build/
 
 #ignore pyinstaller files
 #*.toc
