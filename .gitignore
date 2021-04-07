@@ -1,0 +1,15 @@
+# ignore __pycache__
+__pycache__/
+
+#ignore builds
+/dist
+/build
+
+#ignore pyinstaller files
+#*.toc
+#*.zip
+#*.pyz
+#*.txt
+#*.spec
+#*.manifest
+#*.html
