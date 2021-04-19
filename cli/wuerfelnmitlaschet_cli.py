@@ -237,7 +237,7 @@ while spieltyp == 'bereitfuersatz':
         print('Deine neunte Zahl war 6')
         text9 = "Bundeskanzlerin"
     time.sleep(0.75)
-    print('Was wir jetzt brauchen ist ein/e ' + text1 + text2 + ' ' + text3 + ' ' + text4 +
+    print('Was wir jetzt brauchen ist eine/n ' + text1 + text2 + ' ' + text3 + ' ' + text4 +
           text5 + ' bis ' + text6 + ', zur ' + text7 + ' ' + text8 + ' der ' + text9 + '.')
     spieltyp = 'ende'
 
